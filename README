@@ -1,0 +1,9 @@
+A copy of the 3 shell scripts discussed on [Matt Mights Blog](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/).
+
+There also exists a emacs mode which uses this by on [bnbeckwith / writegood-mode](https://github.com/bnbeckwith/writegood-mode).
+
+***
+
+I created this repo to expand on the list of words provided in the blog post and for others to potentially contribute.
+
+For now I have simply copied most of what was in the blog post without modifying anything and have not even used the scripts yet!
